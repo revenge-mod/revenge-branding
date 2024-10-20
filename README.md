@@ -86,3 +86,7 @@ The Revenge name when used in context of a Discord client modification
 The following tagline must be used whenever a slogan, summary, or short description of Revenge is required:
 
 "Discord, your way."
+
+## 📋 Attribution
+
+The Revenge mark is heavily based on [twitter/twemoji](https://github.com/twitter/twemoji) "Fisted Hand Sign" emoji, which is licensed under [CC-BY 4.0](https://github.com/twitter/twemoji?tab=readme-ov-file#attribution-requirements).
