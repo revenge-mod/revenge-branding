@@ -1,6 +1,3 @@
-[submodule "assets/revenge-typeface"]
+[submodule "Revenge Typeface"]
 	path = assets/revenge-typeface
-	url = https://github.com/Dicotype/Afacad.git
-[submodule "assets/assets/revenge-typeface"]
-	path = assets/assets/revenge-typeface
 	url = https://github.com/Dicotype/Afacad.git
